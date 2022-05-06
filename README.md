@@ -1,7 +1,7 @@
 # MoonLightVPN
 MoonLigthVPN
 
-******Privacy Policy******
+## Privacy Policy
 
 Moon Light VPN built the Moon Light VPN app as a Commercial app. This SERVICE is provided by Moon Light VPN and is intended for use as is.
 
@@ -64,7 +64,7 @@ Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at admin@moonlightmm.com
 
-******Terms & Condition******
+## Terms & Conditions
 
 Terms & Conditions
 By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to Moon Light VPN.
