@@ -3787,4 +3787,7 @@ Stack trace:
 #31 /var/www/vhosts/rainbowtechnology.org/httpdocs/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(129): Illuminate\\Console\\Application->run()
 #32 /var/www/vhosts/rainbowtechnology.org/httpdocs/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
 #33 {main}
+[2022-05-27 07:16:47] local.ERROR: Cannot use isset() on the result of an expression (you can use "null !== expression" instead) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot use isset() on the result of an expression (you can use \"null !== expression\" instead) at /home/asus/MoonLightVPN-Web/storage/framework/views/f608997d19628dfa9aa1db0978bdc9b5980d4652.php:18)
+[stacktrace]
+#0 {main}
 "} 
