@@ -15,7 +15,9 @@
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-    <img src="{{ asset('storage/'.config('settings.app_logo')) }}" alt="{{ config('settings.app_name') }}">
+      @if (!empty(config('settings.app_logo')))
+        <img src="{{ asset('storage/'.config('settings.app_logo')) }}" alt="{{ config('settings.app_name') }}">
+      @endif
     <p><strong>{{ config('settings.app_name') }}</strong></p>
   </div>
   <div class="card">
